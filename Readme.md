@@ -165,6 +165,6 @@ Click *Save changes*.
   <img src="validation.jpg">
 </p>
 
-<h1><a hef="https://youtu.be/1KOqOgfG8HQ">Video Example</a></h1>
+<h1><a href="https://youtu.be/1KOqOgfG8HQ">Video Example]</a></h1>
 
 [![Video Example](OIP.jfif)](https://youtu.be/1KOqOgfG8HQ)
