@@ -166,5 +166,3 @@ Click *Save changes*.
 </p>
 
 <h1><a href="https://youtu.be/1KOqOgfG8HQ">Video Example</a></h1>
-
-[![Video Example](OIP.jfif)](https://youtu.be/1KOqOgfG8HQ)
