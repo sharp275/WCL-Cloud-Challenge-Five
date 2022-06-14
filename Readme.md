@@ -55,7 +55,7 @@ Download the zip file and extract index.html and error.html
 Login into AWS and search/choose *S3*.
 
 <p align="center">
-  <img width="1000" src="choose s3.jpg">
+  <img width="1000" src="choose S3.jpg">
 </p>
 
 Click *Create bucket*.
