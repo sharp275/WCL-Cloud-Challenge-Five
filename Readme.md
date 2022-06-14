@@ -49,7 +49,10 @@ WhizLabs is running a cloud challenge between May and July 2022.  The challenge 
 >6.	Test the website by accessing the S3 Endpoint in your browser.
 >7.	Test the error page by adding some random characters at the end of the URL.
 ---
-<br><br>
+<br>
+<br>
+
+
 Download the zip file and extract index.html and error.html
 
 Login into AWS and search/choose *S3*.
