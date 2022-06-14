@@ -167,4 +167,4 @@ Click *Save changes*.
 
 <h1>Video Example</h1>
 
-[![Video Example](vid.jpg)](https://youtu.be/1KOqOgfG8HQ)
+[![Video Example](OIP.jfif)](https://youtu.be/1KOqOgfG8HQ)
