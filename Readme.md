@@ -132,7 +132,7 @@ Delete the current policy.
   <img width="1000" src="permissions 3.jpg">
 </p>
 
-From the text editor, copy and paste the policy then click *Save chnages*.
+From the text editor, copy and paste the policy then click *Save changes*.
 
 <p align="center">
   <img width="1000" src="permissions 4.jpg">
